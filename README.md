@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lukebates33
+- 👋 Hi, I’m @Luke Bates
 - 👀 I’m interested in computers and games
 - 🌱 I’m currently learning computer science in maynooth
 - 💞️ I’m looking to collaborate on projects
